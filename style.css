@@ -594,3 +594,36 @@ margin-top: 3.7%;
 }
 
 }
+
+@media only screen and (max-width: 600px) {
+    h1{
+        font-size:28px;
+        font-weight: 600;
+    }
+    #p1{
+        font-size:16px;
+    }
+    #but2{
+        width: 240px;
+    }
+    #but3{
+        width: 240px;
+        margin: 20px auto;
+    }
+    .alt{
+        margin: auto;
+        font-size: 14px;
+        padding: 0px 10px 10px 10px;
+    }
+    .alt2{
+        margin: auto;
+        font-size: 14px;
+        padding: 0px 10px 10px 10px;
+    }
+    .rb {
+        top: 0;
+    }
+    h4{
+        font-size: 28px;
+    }
+}
